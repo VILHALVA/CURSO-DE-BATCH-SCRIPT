@@ -1,0 +1,1 @@
+[143]   Default Gateway . . . . . . . . . : fe80::1%11

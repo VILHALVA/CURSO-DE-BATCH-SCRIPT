@@ -1,0 +1,171 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            Penha-PC:0             LISTENING
+  TCP    0.0.0.0:445            Penha-PC:0             LISTENING
+  TCP    0.0.0.0:554            Penha-PC:0             LISTENING
+  TCP    0.0.0.0:2869           Penha-PC:0             LISTENING
+  TCP    0.0.0.0:5357           Penha-PC:0             LISTENING
+  TCP    0.0.0.0:10243          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:47984          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:47989          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:48010          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:49152          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:49153          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:49154          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:49155          Penha-PC:0             LISTENING
+  TCP    0.0.0.0:49156          Penha-PC:0             LISTENING
+  TCP    127.0.0.1:4370         Penha-PC:0             LISTENING
+  TCP    127.0.0.1:4380         Penha-PC:0             LISTENING
+  TCP    127.0.0.1:9990         Penha-PC:0             LISTENING
+  TCP    127.0.0.1:49175        activation:65001       ESTABLISHED
+  TCP    127.0.0.1:49330        Penha-PC:0             LISTENING
+  TCP    127.0.0.1:49331        Penha-PC:0             LISTENING
+  TCP    127.0.0.1:65000        Penha-PC:0             LISTENING
+  TCP    127.0.0.1:65001        Penha-PC:0             LISTENING
+  TCP    127.0.0.1:65001        activation:49175       ESTABLISHED
+  TCP    192.168.15.167:139     Penha-PC:0             LISTENING
+  TCP    [::]:135               Penha-PC:0             LISTENING
+  TCP    [::]:445               Penha-PC:0             LISTENING
+  TCP    [::]:554               Penha-PC:0             LISTENING
+  TCP    [::]:2869              Penha-PC:0             LISTENING
+  TCP    [::]:3587              Penha-PC:0             LISTENING
+  TCP    [::]:5357              Penha-PC:0             LISTENING
+  TCP    [::]:10243             Penha-PC:0             LISTENING
+  TCP    [::]:49152             Penha-PC:0             LISTENING
+  TCP    [::]:49153             Penha-PC:0             LISTENING
+  TCP    [::]:49154             Penha-PC:0             LISTENING
+  TCP    [::]:49155             Penha-PC:0             LISTENING
+  TCP    [::]:49156             Penha-PC:0             LISTENING
+  TCP    [::1]:49215            Penha-PC:0             LISTENING
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:5004           *:*                    
+  UDP    0.0.0.0:5005           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:55533          *:*                    
+  UDP    0.0.0.0:55535          *:*                    
+  UDP    0.0.0.0:55537          *:*                    
+  UDP    0.0.0.0:59678          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:48200        *:*                    
+  UDP    127.0.0.1:48201        *:*                    
+  UDP    127.0.0.1:48202        *:*                    
+  UDP    127.0.0.1:54028        *:*                    
+  UDP    127.0.0.1:54029        *:*                    
+  UDP    127.0.0.1:54030        *:*                    
+  UDP    127.0.0.1:54031        *:*                    
+  UDP    127.0.0.1:54032        *:*                    
+  UDP    127.0.0.1:54035        *:*                    
+  UDP    127.0.0.1:54036        *:*                    
+  UDP    127.0.0.1:54037        *:*                    
+  UDP    127.0.0.1:54038        *:*                    
+  UDP    127.0.0.1:54039        *:*                    
+  UDP    127.0.0.1:54040        *:*                    
+  UDP    127.0.0.1:54041        *:*                    
+  UDP    127.0.0.1:54042        *:*                    
+  UDP    127.0.0.1:54046        *:*                    
+  UDP    127.0.0.1:57453        *:*                    
+  UDP    127.0.0.1:57694        *:*                    
+  UDP    127.0.0.1:57695        *:*                    
+  UDP    127.0.0.1:65000        *:*                    
+  UDP    192.168.15.167:137     *:*                    
+  UDP    192.168.15.167:138     *:*                    
+  UDP    192.168.15.167:1900    *:*                    
+  UDP    192.168.15.167:5353    *:*                    
+  UDP    192.168.15.167:54045   *:*                    
+  UDP    [::]:3540              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:5004              *:*                    
+  UDP    [::]:5005              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:55534             *:*                    
+  UDP    [::]:55536             *:*                    
+  UDP    [::]:55538             *:*                    
+  UDP    [::]:59679             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:54044            *:*                    
+  UDP    [fe80::7d5d:42b0:aecb:1967%11]:1900  *:*                    
+  UDP    [fe80::7d5d:42b0:aecb:1967%11]:54043  *:*                    
+
+Interface: 192.168.15.167 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.15.1          a8-d3-f7-d2-4d-49     dynamic   
+  192.168.15.168        40-78-6a-18-5c-eb     dynamic   
+  192.168.15.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Penha-PC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : localdomain
+
+Ethernet adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller #2
+   Physical Address. . . . . . . . . : 94-DE-80-F1-3F-76
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : C4-E9-84-00-1F-77
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2804:7f2:280:496e:7d5d:42b0:aecb:1967(Preferred) 
+   IPv6 Address. . . . . . . . . . . : fd98:6cac:3150:1234:7d5d:42b0:aecb:1967(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2804:7f2:280:496e:b954:c0fa:47c9:d51a(Preferred) 
+   Temporary IPv6 Address. . . . . . : fd98:6cac:3150:1234:b954:c0fa:47c9:d51a(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::7d5d:42b0:aecb:1967%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.15.167(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : ter‡a-feira, 3 de maio de 2016 00:12:10
+   Lease Expires . . . . . . . . . . : quarta-feira, 4 de maio de 2016 00:12:10
+   Default Gateway . . . . . . . . . : fe80::1%11
+                                       192.168.15.1
+   DHCP Server . . . . . . . . . . . : 192.168.15.1
+   DHCPv6 IAID . . . . . . . . . . . : 247785860
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1E-B9-5F-19-C4-E9-84-00-1F-77
+   DNS Servers . . . . . . . . . . . : 2804:7f4:2002:1005::98
+                                       2804:7f4:2002:1005::99
+                                       192.168.15.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+   Connection-specific DNS Suffix Search List :
+                                       localdomain
+
+Tunnel adapter isatap.localdomain:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : localdomain
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{0505C986-BE32-43F5-B18F-070BE4630D38}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes

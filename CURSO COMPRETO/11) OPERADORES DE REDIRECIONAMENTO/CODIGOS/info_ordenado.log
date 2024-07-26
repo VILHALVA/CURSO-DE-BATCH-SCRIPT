@@ -1,0 +1,51 @@
+
+                                 [01]: 192.168.15.167
+                                 [02]: fe80::7d5d:42b0:aecb:1967
+                                 [03]: fd98:6cac:3150:1234:b954:c0fa:47c9:d51a
+                                 [04]: 2804:7f2:280:496e:b954:c0fa:47c9:d51a
+                                 [05]: fd98:6cac:3150:1234:7d5d:42b0:aecb:1967
+                                 [06]: 2804:7f2:280:496e:7d5d:42b0:aecb:1967
+                                 Connection Name: Local Area Connection
+                                 Connection Name: Local Area Connection 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.15.1
+                                 IP address(es)
+                                 Status:          Media disconnected
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~3101 Mhz
+                           [01]: KB2534111
+                           [01]: Realtek PCIe GBE Family Controller
+                           [02]: KB2685811
+                           [02]: Realtek PCIe GBE Family Controller
+                           [03]: KB976902
+Available Physical Memory: 1.852 MB
+BIOS Version:              American Megatrends Inc. FC, 25/02/2013
+Boot Device:               \Device\HarddiskVolume3
+Domain:                    WORKGROUP
+Host Name:                 PENHA-PC
+Hotfix(s):                 3 Hotfix(s) Installed.
+Input Locale:              pt-br;Portuguese (Brazil)
+Logon Server:              \\PENHA-PC
+Network Card(s):           2 NIC(s) Installed.
+Original Install Date:     02/05/2016, 16:08:01
+OS Build Type:             Multiprocessor Free
+OS Configuration:          Standalone Workstation
+OS Manufacturer:           Microsoft Corporation
+OS Name:                   Microsoft Windows 7 Ultimate 
+OS Version:                6.1.7601 Service Pack 1 Build 7601
+Page File Location(s):     C:\pagefile.sys
+Processor(s):              1 Processor(s) Installed.
+Product ID:                00426-292-0000007-85034
+Registered Organization:   
+Registered Owner:          Penha
+System Boot Time:          03/05/2016, 00:11:24
+System Directory:          C:\Windows\system32
+System Locale:             pt-br;Portuguese (Brazil)
+System Manufacturer:       Gigabyte Technology Co., Ltd.
+System Model:              To be filled by O.E.M.
+System Type:               x64-based PC
+Time Zone:                 (UTC-03:00) Brasilia
+Total Physical Memory:     5.071 MB
+Virtual Memory: Available: 6.900 MB
+Virtual Memory: In Use:    3.240 MB
+Virtual Memory: Max Size:  10.140 MB
+Windows Directory:         C:\Windows

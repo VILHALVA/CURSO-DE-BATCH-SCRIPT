@@ -1,0 +1,8 @@
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+>penha                 console             1  Active      none   03/05/2016 00:12
+'ser' is not recognized as an internal or external command,
+operable program or batch file.
+'ser' is not recognized as an internal or external command,
+operable program or batch file.
+'ser' is not recognized as an internal or external command,
+operable program or batch file.
