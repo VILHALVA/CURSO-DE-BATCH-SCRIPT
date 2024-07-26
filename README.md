@@ -1,7 +1,7 @@
 # CURSO DE BATCH SCRIPT
 👨‍⚖️BATCH SCRIPT É UMA LINGUAGEM DE SCRIPT USADA PARA AUTOMATIZAR TAREFAS EM SISTEMAS OPERACIONAIS WINDOWS.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
